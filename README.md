@@ -6,9 +6,6 @@ Challenge website: https://www.kaggle.com/c/otto-group-product-classification-ch
 The Otto competition hosted on Kaggle was led by the eponymous company ”the Otto Group” in 2015. The company is a large German e-commerce company with business operations in many European countries and the USA. The main goal of the competition was to help Otto classify similar products into categories, so our goal was to develop a classifier to correctly predict the product category from a discrete set of possibilities. This is a particularly interesting problem as the meaning of features are undisclosed.
 
 
-# AppliedML
-Repo for Applied ML
-
 # Requirements
 - 3.6.+
 - (...)
