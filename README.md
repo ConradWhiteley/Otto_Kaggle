@@ -44,14 +44,6 @@ The Otto competition hosted on Kaggle was led by the eponymous company ”the Ot
  - [stacking using Evolutionary Algorithms](https://github.com/deap/deap)
  - [Strategy for top 25 score](https://www.kaggle.com/c/otto-group-product-classification-challenge/discussion/14315)
  
- 
- # Plankton
- https://www.kaggle.com/c/datasciencebowl
- 
- ### useful links
- http://earlglynn.github.io/kaggle-plankton/Sander-Kaggle-Plankton-Tutorial.html
- 
- [Transfer Learning](https://towardsdatascience.com/transfer-learning-with-convolutional-neural-networks-in-pytorch-dd09190245ce)
 
 ## Data loader notebook (Colab)
 https://drive.google.com/open?id=1L6XArqgFaU9v-VUbvj9l6jesEcMzxEaG
